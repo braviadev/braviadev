@@ -62,7 +62,7 @@ I build scalable, high-performance web applications and deploy trustworthy AI mo
 - 🧪 **AI/ML:** Multimodal Fusion, Uncertainty Estimation, Behavioral Understanding, Computer Vision.
 - 🌐 **Web Administration:** Webmaster of **Kwara State University (KWASU)**, managing and maintaining **kwasu.edu.ng** and overseeing all web services and subdomains across the [kwasu.edu.ng](https://kwasu.edu.ng) ecosystem.
 - 🚀 **Current Project:** Leading the development of a modern **React, Next.js, Node.js, and TypeScript-based portal platform**, available at [portal.braviaprime.com](https://portal.braviaprime.com).
-- 📂 **Projects:** All of my projects are available at [braviaprime.com/projects](https://braviaprime.com/projects), including my [master's research implementation.braviaprime.com/.
+- 📂 **Projects:** All of my projects are available at [braviaprime.com/projects](https://braviaprime.com/projects), including my [master's research implementation](http://proctorai.braviaprime.com/), and my [undegraduate research implementation](http://cryptography.braviaprime.com/).
 - 📝 **Writing:** I regularly write articles on [one-blog.braviaprime.com](https://one-blog.braviaprime.com) and [braviaprime.com/blog](https://braviaprime.com/blog).
 
 ---
