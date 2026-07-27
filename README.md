@@ -20,22 +20,50 @@
 
 ---
 ## 📝 Selected Publications
-* **An Enhanced Arithmetic Optimization Algorithm for Efficient Task Scheduling in Fog-Cloud Computing** (2026) - *Journal of Institutional Research, Big Data Analytics and Innovation*
-* **Systematic Literature Review on Entrepreneurship Potential Prediction** (2026) - *Journal of Institutional Research, Big Data Analytics and Innovation*
-* **An Enhanced Web-Based Examination System using Automated Proctoring and Background Activity Detection** (2025) - *Journal of Institutional Research, Big Data Analytics and Innovation*
-* **Assessing The Adequacy of Artificial Intelligence Tools for African Narratives: Towards Responsible and Cultural Inclusivity** (2025) - *FUW Trends in Science & Technology Journal*
+
+* **An Enhanced Arithmetic Optimization Algorithm for Efficient Task Scheduling in Fog-Cloud Computing** (2026) - *Journal of Institutional Research, Big Data Analytics and Innovation*  
+  📄 https://www.braviaprime.com/academic-writings/publication/5-raji-et-al-2026.pdf
+
+* **Systematic Literature Review on Entrepreneurship Potential Prediction** (2026) - *Journal of Institutional Research, Big Data Analytics and Innovation*  
+  📄 https://www.braviaprime.com/academic-writings/publication/7-adedeji-et-al-2026.pdf
+
+* **An Enhanced Web-Based Examination System using Automated Proctoring and Background Activity Detection** (2025) - *Journal of Institutional Research, Big Data Analytics and Innovation*  
+  📄 https://www.braviaprime.com/academic-writings/publication/1-toyyib-et-al-2025.pdf
+
+* **Assessing The Adequacy of Artificial Intelligence Tools for African Narratives: Towards Responsible and Cultural Inclusivity** (2025) - *FUW Trends in Science & Technology Journal*  
+  📄 https://www.braviaprime.com/academic-writings/publication/2-rafiu-et%20al-2025.pdf
+
 * **An Improved Automated Detection Approach to Hepatitis B Virus Using Multi-Scale Local Binary Pattern-Convolutional Neural Network (MSLBP-CNN)** (2025) - *KWASU Journal of Information, Communication and Technology*
-* **Systematic Review of Task Scheduling in Fog-Cloud Computing: Machine Learning and Metaheuristic Approaches** (2025) - *Journal of Institutional Research, Big Data Analytics and Innovation*
-* **Implementing an Ai-Driven Proctoring System: Real-Time Detection of Disruptive Sounds and Unauthorized Visual Infractions** (2024) - *International Journal Of Engineering Research And Development*
+
+* **Systematic Review of Task Scheduling in Fog-Cloud Computing: Machine Learning and Metaheuristic Approaches** (2025) - *Journal of Institutional Research, Big Data Analytics and Innovation*  
+  📄 https://www.braviaprime.com/academic-writings/publication/3-ayuba-et-al-2025.pdf
+
+* **Implementing an AI-Driven Proctoring System: Real-Time Detection of Disruptive Sounds and Unauthorized Visual Infractions** (2024) - *International Journal of Engineering Research and Development*  
+  📄 https://www.braviaprime.com/academic-writings/publication/4-olanrewaju-et%20al-2024.pdf
+
 * **Design and Implementation of Data Cryptography System** (2020)
+
+### 📚 Additional Publications
+
+* **An Enhanced Arithmetic Optimization Algorithm for Efficient Task Scheduling in Fog-Cloud Computing** (2026)  
+  📄 https://www.braviaprime.com/academic-writings/publication/5-raji-et-al-2026.pdf
+
+* **Systematic Review of Task Scheduling in Fog-Cloud Computing: Machine Learning and Metaheuristic Approaches** (2026)  
+  📄 https://www.braviaprime.com/academic-writings/publication/6-ayuba-et-al-2026.pdf
+
+* **Systematic Literature Review on Entrepreneurship Potential Prediction** (2026)  
+  📄 https://www.braviaprime.com/academic-writings/publication/7-adedeji-et-al-2026.pdf
 
 ---
 ## 🚀 Technical Expertise
 I build scalable, high-performance web applications and deploy trustworthy AI models into production environments.
+
 - 🛠️ **Core Stack:** React, Next.js, Node.js, TypeScript.
 - 🧪 **AI/ML:** Multimodal Fusion, Uncertainty Estimation, Behavioral Understanding, Computer Vision.
-- 📂 **Projects:** All of my projects are available at [braviaprime.com/projects](https://braviaprime.com/projects), including my [master's research implementation](http://proctorai.braviaprime.com/), and my [undegraduate research implementation](http://cryptography.braviaprime.com/).
-- 📝 **Writing:** I regularly write articles on [braviaprime.com/blog](https://braviaprime.com/blog).
+- 🌐 **Web Administration:** Webmaster of **Kwara State University (KWASU)**, managing and maintaining **kwasu.edu.ng** and overseeing all web services and subdomains across the **kwasu.edu.ng** ecosystem.
+- 🚀 **Current Project:** Leading the development of a modern **React, Next.js, Node.js, and TypeScript-based portal platform**, available at [portal.braviaprime.com](https://portal.braviaprime.com).
+- 📂 **Projects:** All of my projects are available at [braviaprime.com/projects](https://braviaprime.com/projects), including my [master's research implementation.braviaprime.com/.
+- 📝 **Writing:** I regularly write articles on [one-blog.braviaprime.com](https://one-blog.braviaprime.com) and [braviaprime.com/blog](https://braviaprime.com/blog).
 
 ---
 ## 📊 Weekly Development Breakdown
