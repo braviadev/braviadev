@@ -67,6 +67,11 @@ I build scalable, high-performance web applications and deploy trustworthy AI mo
 - 🔗 **Links:** Explore my complete digital presence, social profiles, and contact channels at [links.braviaprime.com](https://links.braviaprime.com).
 
 ---
+## 🤝 Professional Memberships
+
+- <img src="https://www.ncs.org.ng/wp-content/uploads/2025/01/NCS-Logo-4.png" alt="Nigeria Computer Society (NCS)" width="20" /> **Member, Nigeria Computer Society (NCS)** – Active member of Nigeria's premier professional body for computing and information technology professionals, committed to advancing the development, standardization, and ethical practice of computing and digital innovation in Nigeria.
+---
+
 ## 📊 Weekly Development Breakdown
 [![](https://wakatime.com/badge/user/8747fe60-b1f6-4787-b726-bfea4896868a.svg?style=for-the-badge)](https://wakatime.com/@braviadev)
 
