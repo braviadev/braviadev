@@ -62,18 +62,18 @@ I build scalable, high-performance web applications and deploy trustworthy AI mo
 - 🧪 **AI/ML:** Multimodal Fusion, Uncertainty Estimation, Behavioral Understanding, Computer Vision.
 - 🌐 **Web Administration:** Webmaster of **Kwara State University (KWASU)**, managing and maintaining **kwasu.edu.ng** and overseeing all web services and subdomains across the [kwasu.edu.ng](https://kwasu.edu.ng) ecosystem.
 - 🚀 **Current Project:** Leading the development of a modern **React, Next.js, Node.js, and TypeScript-based portal platform**, available at [portal.braviaprime.com](https://portal.braviaprime.com).
-- 📂 **Projects:** All of my projects are available at [braviaprime.com/projects](https://braviaprime.com/projects), including my [master's research implementation](http://proctorai.braviaprime.com/), and my [undegraduate research implementation](http://cryptography.braviaprime.com/).
+- 📂 **Projects:** All of my projects are available at [braviaprime.com/projects](https://braviaprime.com/projects), including my [master's research implementation](http://proctorai.braviaprime.com/), and my [undegraduate research implementation](http://cryptography.braviaprime.com).
 - 📝 **Writing:** I regularly write articles on [one-blog.braviaprime.com](https://one-blog.braviaprime.com) and [braviaprime.com/blog](https://braviaprime.com/blog).
 - 🔗 **Links:** Explore my complete digital presence, social profiles, and contact channels at [links.braviaprime.com](https://links.braviaprime.com).
 
 ---
 ## 🤝 Professional Memberships
 
-- <img src="https://www.ncs.org.ng/wp-content/uploads/2025/01/NCS-Logo-4.png" alt="Nigeria Computer Society (NCS)" width="20" /> **Member, Nigeria Computer Society (NCS)** – Active member of Nigeria's premier professional body for computing and information technology professionals, committed to advancing the development, standardization, and ethical practice of computing and digital innovation in Nigeria.
+- <img src="https://www.ncs.org.ng/wp-content/uploads/2025/01/NCS-Logo-4.png" alt="Nigeria Computer Society (NCS)" width="20" /> **[Nigeria Computer Society (NCS)](https://www.ncs.org.ng)** – Active member of Nigeria's premier professional body for computing and information technology professionals, committed to advancing the development, standardization, and ethical practice of computing and digital innovation in Nigeria.
 ---
 
 ## 📊 Weekly Development Breakdown
-[![](https://wakatime.com/badge/user/8747fe60-b1f6-4787-b726-bfea4896868a.svg?style=for-the-badge)](https://wakatime.com/@braviadev)
+[![wakatime](https://wakatime.com/badge/user/1778f9ac-6594-4c9f-a649-0d61da8e4244.svg)](https://wakatime.com/@1778f9ac-6594-4c9f-a649-0d61da8e4244)
 
 ---
 ## 📬 Contact Directory
